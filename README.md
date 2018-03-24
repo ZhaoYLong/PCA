@@ -28,3 +28,7 @@ python_codes保存的是实验代码
 
 附Sebastian Raschka的Implementing a Principal Component Analysis (PCA)的网址：
 http://sebastianraschka.com/Articles/2014_pca_step_by_step.html#generating-some-3-dimensional-sample-data
+
+
+
+刚加入了数据的标准化代码，自己编写，代码简单、粗糙，主要利用均差和方差来标准数据。另外，采用softmax()标准数据，代码编写貌似出现错误。代码：数据标准化_java文件夹。
