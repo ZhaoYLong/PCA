@@ -3,7 +3,7 @@ import numpy as np
 np.random.seed(2**32 -1)  # random seed for consistency
 
 
-###计算均值和散步矩阵
+###计算均值和散布矩阵
 
 mu_vec1 = np.array([0, 0, 0])   #第一类均值
 cov_mat1 = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]])   #第一类协方差矩阵
